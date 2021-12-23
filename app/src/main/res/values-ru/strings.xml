@@ -1,0 +1,5 @@
+<resources>
+    <string name="cancel_button">Отмена</string>
+    <string name="greetings">Привет, Мир!</string>
+    <string name="ok_button">Да</string>
+</resources>
